@@ -1,8 +1,6 @@
 # CRUD MVC con Thymeleaf — RA3
 
 ## 1) Datos del alumno/a
-- Nombre y apellidos:
-- Curso / Grupo:
 - Entidad elegida (ej. Producto, Libro...):
 
 ## 2) Repositorio (fork) y gestión de versiones
@@ -48,16 +46,10 @@ Explica brevemente cómo has organizado:
 - POST /entidad/{id} (actualizar)
 - POST /entidad/{id}/borrar (eliminar)
 
-## 8) Evidencias de cambios (mínimo 5 commits)
-Describe tus 5 cambios principales:
-1.
-2.
-3.
-4.
-5.
 
-## 9) Mejoras extra (opcional)
+## 8) Mejoras extra (opcional)
 - Validaciones
 - Estilos Bootstrap
-- Búsqueda / paginación
+- Búsqueda
 - Pruebas
+- Paginación
